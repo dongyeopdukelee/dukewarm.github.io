@@ -24,15 +24,15 @@
       <description>  W3.CSS  .mySlides {display:none;}   &amp;#10094; &amp;#10095;   var slideIndex = 1; showDivs(slideIndex); function plusDivs(n) { showDivs(slideIndex += n); } function showDivs(n) { var i; var x = document.getElementsByClassName(&#34;mySlides&#34;); if (n  x.length) {slideIndex = 1} if (n   </description>
     </item>
     
-    
     <item>
-      <title>What is programming?</title>
+      <title>What is Programming?</title>
       <link>http://dukewarm.com/what-is-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://dukewarm.com/what-is-programming/</guid>
       <description>my comic series</description>
     </item>
+    
     
   </channel>
 </rss>
