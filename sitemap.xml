@@ -2,12 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dukewarm.com/what-is-programming/1/</loc>
+  </url><url>
+    <loc>http://dukewarm.com/what-is-programming/2/</loc>
+  </url><url>
     <loc>http://dukewarm.com/archives/</loc>
   </url><url>
     <loc>http://dukewarm.com/categories/</loc>
   </url><url>
+    <loc>http://dukewarm.com/tags/comics/</loc>
+  </url><url>
+    <loc>http://dukewarm.com/posts/</loc>
+  </url><url>
     <loc>http://dukewarm.com/tags/</loc>
   </url><url>
     <loc>http://dukewarm.com/</loc>
+  </url><url>
+    <loc>http://dukewarm.com/what-is-programming/</loc>
+  </url><url>
+    <loc>http://dukewarm.com/tags/what_is_programming/</loc>
+  </url><url>
+    <loc>http://dukewarm.com/what-is-programming/</loc>
   </url>
 </urlset>
